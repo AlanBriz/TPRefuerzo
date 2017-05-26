@@ -1,0 +1,6 @@
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\bin\Debug\TDA Casa.exe.config
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\bin\Debug\TDA Casa.exe
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\bin\Debug\TDA Casa.pdb
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\obj\Debug\TDA Casa.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\obj\Debug\TDA Casa.exe
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\TPRefuerzo\TDA Casa\TDA Casa\obj\Debug\TDA Casa.pdb
